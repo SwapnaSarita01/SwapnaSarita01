@@ -7,7 +7,7 @@
 **Top Projects**
 - 🔐 DevSecOps 3-Tier Kubernetes Project — E2E pipeline (K8s, Trivy, GitHub Actions)
 - 🚀 AWS DevOps CI/CD Pipeline — IaC + build/test/deploy on AWS
-- 🧭 Portfolio (This site’s code + CI)
+- 🧭 Portfolio 
 
 **Tech**
 AWS · EKS · EC2 · S3 · RDS · Route53 · IAM · VPC · Docker · Kubernetes · Helm · Terraform · Ansible · Jenkins · GitHub Actions · Prometheus · Grafana
