@@ -13,7 +13,7 @@
 AWS · EKS · EC2 · S3 · RDS · Route53 · IAM · VPC · Docker · Kubernetes · Helm · Terraform · Ansible · Jenkins · GitHub Actions · Prometheus · Grafana
 
 **Find me**
-[LinkedIn](https://www.linkedin.com/in/swapna-sarita/) • [Portfolio](#) • [Email](mailto:swapnasaritakar@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/swapna-sarita/) • [Portfolio](https://swapnasaritakar.space/) • [Email](mailto:swapnasaritakar@gmail.com)
 
 <!--
 **SwapnaSarita01/SwapnaSarita01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
